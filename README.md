@@ -1,25 +1,25 @@
 # reverseWordsCase
 
               Test Case 1
-              Wipro TechNologies BangaLore
-              orpiW seigoloNhceT eroLagnaB 
+              input: Wipro TechNologies BangaLore
+              output: orpiW seigoloNhceT eroLagnaB 
               
               Test Case 2
-              Wipro Technologies, Bangalore
-              orpiW ,seigolonhceT erolagnaB 
+              input: Wipro Technologies, Bangalore
+              output: orpiW ,seigolonhceT erolagnaB 
               
               Test Case 3
-              Wipro TechNologies, BangaLore
-              orpiW ,seigoloNhceT eroLagnaB 
+              input: Wipro TechNologies, BangaLore
+              output: orpiW ,seigoloNhceT eroLagnaB 
               
               Test Case 4
-              Wipro TechNologies BangaLore
-              Orpiw ,seigolonhcet Erolagnab 
+              input: Wipro TechNologies BangaLore
+              output: Orpiw ,seigolonhcet Erolagnab 
               
               Test Case 5
-              Wipro Technologies, Bangalore
-              Orpiw ,seigolonhcet Erolagnab 
+              input: Wipro Technologies, Bangalore
+              output: Orpiw ,seigolonhcet Erolagnab 
               
               Test Case 6
-              Wipro TechNologies, BangaLore
-              Orpiw ,seiGolonhcet ErolaGnab 
+              input: Wipro TechNologies, BangaLore
+              output: Orpiw ,seiGolonhcet ErolaGnab 
